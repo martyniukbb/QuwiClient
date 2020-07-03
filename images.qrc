@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>button_checked.png</file>
+        <file>button_unchecked.png</file>
+    </qresource>
+</RCC>
